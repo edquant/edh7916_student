@@ -116,8 +116,5 @@ $RECYCLE.BIN/
 # Exceptions
 # ------------------
 
-<<<<<<< HEAD
 !data/README.md
-=======
->>>>>>> b0e881571905be1069a979df31c70ad453a2bba2
 !data/test_scores.RDS
