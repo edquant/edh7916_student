@@ -10,6 +10,7 @@ _*
 # ignore all files in /data except README file
 data/
 !data/README.md
+!data/test_scores.RDS
 
 # ignore website index.md files
 index.md
