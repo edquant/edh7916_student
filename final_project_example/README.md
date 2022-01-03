@@ -30,7 +30,7 @@ will download it and place it in the correct location.
 
 To download the data manually, `all_schools.csv` is available from the following link:
 
-- https://github.com/edquant/edh7916/blob/master/data/sch_test/all_schools.csv
+- https://raw.githubusercontent.com/edquant/data/main/sch_test/all_schools.csv
 
 At the link, right-click the "Raw" button and choose to "Download
 linked file." Once downloaded, move the file the `data/` folder in
