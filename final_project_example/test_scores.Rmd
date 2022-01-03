@@ -58,7 +58,7 @@ if (!file.exists(file.path(dat_dir, "all_schools.csv"))) {
     ## file name
     file_name <- "all_schools.csv"
     ## repo path
-    repo_url <- "https://raw.githubusercontent.com/edquant/edh7916/master/data/sch_test"
+    repo_url <- "https://raw.githubusercontent.com/edquant/data/main/sch_test/all_schools.csv"
     ## combine repo path + file name for full url
     url <- file.path(repo_url, file_name)
     ## download file to data directory
