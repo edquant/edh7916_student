@@ -278,7 +278,7 @@ plot_df <- df %>%
                         "No delay",      # if T: this
                         ifelse(x4hs2psmos > 6 & x4hs2psmos <= 12, # if F: new ifelse()
                                "Delay: 7-12 months",              # if T: this
-                               "Delay: > 1 year"))                # if F: that
+                               "Delay: > 1 year")))               # if F: that
 
 ## version 2: using case_when(), which is like ifelse(), but can handle more conditions.
 ##
